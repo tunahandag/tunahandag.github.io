@@ -3,4 +3,4 @@ layout: post
 title: Welcome!
 ---
 
-This is the first post!
+UI/UX does not get better than this!
